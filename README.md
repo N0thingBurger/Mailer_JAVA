@@ -1,4 +1,4 @@
-# Easy-Mail-JAVA-
+# Mailer JAVA
 a simple email sender with drag n drop attachment and stylish GUI
 
 ProjectZIP-EasyMail.zip is the ZIP project to be imported in Netbeans .. You will find all source code here..
